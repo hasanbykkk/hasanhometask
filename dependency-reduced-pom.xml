@@ -10,7 +10,7 @@
   <groupId>com.newWorld</groupId>
   <artifactId>wanjin</artifactId>
   <name>wanjin</name>
-  <version>wanjin</version>
+  <version>hasan</version>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>
